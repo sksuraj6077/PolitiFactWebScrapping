@@ -1,2 +1,2 @@
 # PolitiFactWebScrapping
-Using Python and BeautifulSoup liabrary I have done this project 
+Using Python and BeautifulSoup library I have done this project 
